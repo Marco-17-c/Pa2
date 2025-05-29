@@ -1,0 +1,32 @@
+.Fondo{
+      background-image: url(Imagenes/Fondo.jpg);
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0 20px;
+}
+h1 {
+      font-size: 4rem;
+      font-style: italic;
+      letter-spacing: 3px;
+}
+.Eslogan {
+      margin-top: 15px;
+      font-size: 2rem;
+      max-width: 600px; 
+}
+.Menu {
+        margin-top: 20px;
+        font-size: 0.85rem;
+        margin:  100px;
+        cursor: pointer;
+        display: flex;
+        padding: 10px;
+}
+
